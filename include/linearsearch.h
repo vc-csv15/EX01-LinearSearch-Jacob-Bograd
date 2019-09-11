@@ -19,4 +19,4 @@ namespace edu { namespace vcccd { namespace vc { namespace csv15 {
                 }
 
             }}}}
-#endif //EX01_LINEARSEARCH_JACOB_BOGRAD_LINEARSEARCH_H
+#endif EX01_LINEARSEARCH_JACOB_BOGRAD_LINEARSEARCH_H
